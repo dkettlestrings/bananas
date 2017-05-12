@@ -1,2 +1,2 @@
 # bananas
-A brief example showing how to combine actors, monoids, and distributed state testing
+A brief example showing how to combine actors, algebras of events, and distributed state testing.
